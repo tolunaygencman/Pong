@@ -34,6 +34,7 @@ namespace Pong
             Cmb_Countdown.Items.Add("180");
             Cmb_Countdown.Items.Add("240");
             Cmb_Countdown.Items.Add("300");
+            Cmb_Countdown.Items.Add("360");
 
             Cmb_ScoreLimit.Items.Add("3");
             Cmb_ScoreLimit.SelectedIndex = 0;

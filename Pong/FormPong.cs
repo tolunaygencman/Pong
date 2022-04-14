@@ -19,7 +19,7 @@ namespace Pong
         
         bool moveUp, moveDown;
         int speed = 5;
-        int ball = 3;
+        int ball = 5;
         int EndScore;
         
         bool vertical = true;
@@ -247,7 +247,7 @@ namespace Pong
             PicBox_Ball.Top = 200;
             PicBox_Ball.Left = 375;
             
-            ball = 3;
+            ball = 5;
         }
     }
 }

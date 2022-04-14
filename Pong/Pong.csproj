@@ -95,5 +95,8 @@
   <ItemGroup>
     <None Include="Resources\60-608870_line-lines-neon-purple-freetoedit-neon-lines-png.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="aaaaaa\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
