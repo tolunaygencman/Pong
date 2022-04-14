@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aaaaaa\Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,8 +96,6 @@
   <ItemGroup>
     <None Include="Resources\60-608870_line-lines-neon-purple-freetoedit-neon-lines-png.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="aaaaaa\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
